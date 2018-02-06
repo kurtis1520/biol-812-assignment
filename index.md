@@ -18,5 +18,6 @@ Git repositories should be used to store codes, scripts, any text-based files. S
 
 To undo a commit at the command line using Git, use the command:
 
-```git checkout HEAD~1 <filename>
+```javascript
+git checkout HEAD~1 <filename>
 ```
