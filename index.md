@@ -1,3 +1,5 @@
-## BIOL 812 Assignment
+# BIOL 812 Assignment - Creat a GitHub Pages Website
 
-# By Kurtis Westbury
+## By Kurtis Westbury
+
+
