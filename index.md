@@ -33,15 +33,16 @@ git checkout master
 ### 5. Your boss has no idea what Git is or why you are using it. Explain the pros / cons of using Git for your research project. Explain the pros / cons of hosting your project in a public (or private) repository on Github/Bitbucket/Gitlab/etc.
 
 ## Pros
-..*GitHub is free and easy to use for open source projects
-..*Can collaborate with other researchers
-..*Using GitHub, you won't run out of content or memory, everything is stored and can always be re-accessed
-..*GitHub uses Markdown
-..*Students can save on GitHub packages
-..*The GitHub search is very useful; you can search for code, repositories, pages, etc.
-..*It is great for backing up your data instead of saving on an external hard drive
+⋅⋅* GitHub is free and easy to use for open source projects
+⋅⋅* Can collaborate with other researchers
+⋅⋅* Using GitHub, you won't run out of content or memory, everything is stored and can always be re-accessed
+⋅⋅* GitHub uses Markdown
+⋅⋅* Students can save on GitHub packages
+⋅⋅* The GitHub search is very useful; you can search for code, repositories, pages, etc.
+⋅⋅* It is great for backing up your data instead of saving on an external hard drive
+
 
 ## Cons
-..*It is not very easy to use as beginner; takes time and practice to use GitHub effeciently
-..*Private repositories cost money
-..*Not advised to store confidential data on a public repository
+⋅⋅* It is not very easy to use as beginner; takes time and practice to use GitHub effeciently
+⋅⋅* Private repositories cost money
+⋅⋅* Not advised to store confidential data on a public repository
